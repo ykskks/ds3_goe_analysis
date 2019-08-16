@@ -1,5 +1,7 @@
 # ds3_goe_analysis
 
+Libraries necessary to run this code is listed in requirements.txt.
+
 In the root of this directory,
 run
 ```
