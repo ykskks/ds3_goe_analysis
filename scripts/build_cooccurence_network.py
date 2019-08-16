@@ -117,7 +117,7 @@ def plot_network(data, edge_threshold=0., fig_size=(15, 15), file_name=None, dir
     nx.draw_networkx_edges(G, pos, alpha=0.4, edge_color="orange", width=edge_width)
 
     plt.axis('off')
-    plt.show()
+    #plt.show()
 
     # save image
     if file_name is not None:
